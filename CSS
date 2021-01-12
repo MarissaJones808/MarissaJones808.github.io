@@ -1,0 +1,66 @@
+<style>
+
+body 
+ {background-color: rgb(243,245,246);
+    color: rgb(104,104,104);
+ }
+ 
+#TopBar
+  {
+    background-color: rgb(32,32,35);
+    color: white;
+    padding-left: 90px;
+  }
+ 
+ #tbarex
+   {
+     padding-left: 90px;
+   }
+ 
+ #BBar
+  {
+    background-color: white;
+    color: black;
+    padding-left:75px;
+  }
+
+#down
+  {
+    color:black;
+    text-align:right;
+  }
+  
+#search
+  {
+    padding-left:300px;
+    background-color:rgb(210,210,211)
+  }
+  
+#sicon
+  {
+    background-color:rgb(210,210,211)
+  }
+  
+#button
+  {
+    text-align: right;
+    background-color: rgb(18,143,220);
+  }
+  
+#log
+  {
+    padding-right:200;
+  }
+
+#Explore
+  {
+    color: hex(#49473B);
+    padding-left: 90px;
+  }
+  
+#Images
+  {
+    padding-left: 90px;
+  }
+
+</style>
